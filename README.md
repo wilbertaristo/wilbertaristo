@@ -36,6 +36,6 @@ Outside of work, I am a Web3 enthusiast who closely follows developments around 
 
 ## ⚡ Fun fact
 
-You can catch me DJ-ing live in some bars, clubs, or private events in Singapore 🌴
+You can catch me DJ-ing live in some bars, clubs, and private events in Singapore 🌴
 
 **Last updated**: 27 April 2023
