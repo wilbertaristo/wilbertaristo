@@ -11,7 +11,7 @@ Hey, Aristo here! 👋
 
 I'm a mid-level software engineer based in sunny Singapore.
 
-My current work revolves around the frontend development of loyalty platforms for major banks across the globe at [Ascenda](https://www.ascendaloyalty.com/).
+My current work revolves around the full-stack development of loyalty platforms for major banks & FIs across the globe at [Ascenda](https://www.ascendaloyalty.com/).
 
 Outside of work, I am a Web3 enthusiast who closely follows developments around cryptocurrency, smart contracts, and NFTs.
 
