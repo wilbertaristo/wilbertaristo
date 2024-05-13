@@ -9,7 +9,7 @@
 
 Hey, Aristo here! 👋
 
-I'm a mid-level software engineer based in sunny Singapore.
+I'm a senior software engineer based in sunny Singapore.
 
 My current work revolves around the full-stack development of loyalty platforms for major banks & financial institutions across the globe at [Ascenda](https://www.ascenda.com/).
 
